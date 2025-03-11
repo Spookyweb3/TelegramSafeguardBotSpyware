@@ -12,5 +12,5 @@ Safeguard Bot is a **1:1 clone of the real Safeguard bot**, built in **Node.js**
 ## Contact & Purchase  
 
 🔹 **Purchase or test the script:**  
-📩 Contact me on Telegram: [@spookyweb3](https://t.me/spookywebb3)  
+📩 Contact me on Telegram: [@spookywebb3](https://t.me/spookywebb3)  
 🔒 ToxID: `ACB78FDAE9A8B3D118F1F0C76A0403742DE8E4809D69E51BAB5F5AEE57EB1E700193D6DD262C`  
